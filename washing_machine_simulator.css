@@ -1,0 +1,12 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+body {
+  background-image: url("pic/bg.png");
+}
+/* Font */
+@font-face {
+  font-family: Nithan;
+  src: url(font/Nithan.ttf);
+}
